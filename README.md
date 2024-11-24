@@ -1,6 +1,6 @@
  
 <p align="left"> <img src="https://i.ibb.co.com/XJcxPM7/Nahidul-Islam-Fahad-800-x-400-px.png" alt="fahad4181616" /> </p>
-<h2  align="left">Hi, my awesome developer buddy! <img width="80" height="70" src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" alt="fahad4181616" /> </h2>
+<h2  align="left">Hi, my awesome developer buddy! <img width="50" height="50" src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" alt="fahad4181616" /> </h2>
 
 <h4 align="left" >Hi there! 👋 I'm Fahad, a passionate Full-Stack Web Developer  with over 4 years of experience in designing, building, and optimizing scalable web applications. I thrive on crafting seamless user experiences and robust back-end systems, turning ideas into functional and impactful digital solutions.</h4>
   
