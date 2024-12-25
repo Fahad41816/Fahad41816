@@ -146,5 +146,6 @@
  
  
 
-![<nifahad>'s Stats](https://github-readme-stats.vercel.app/api?username=Fahad41816&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Fahad41816&theme=onedark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad41816&layout=pie)](https://github.com/Fahad41816/github-readme-stats)
