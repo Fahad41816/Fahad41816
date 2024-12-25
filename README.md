@@ -146,5 +146,5 @@
  
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad41816&layout=pie)](https://github.com/Fahad41816/github-readme-stats)
 ![<nifahad>'s Stats](https://github-readme-stats.vercel.app/api?username=Fahad41816&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad41816&layout=pie)](https://github.com/Fahad41816/github-readme-stats)
